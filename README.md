@@ -27,7 +27,7 @@ SETUP
 
 ![alt text][pic3]
 
-[pic3]: https://github.com/IgaGonzalez/CS-207/blob/master/IMG_2295.jpg "Logo Title Text 2"
+[pic3]: https://github.com/IgaGonzalez/CS-207/blob/master/IMG_2295.jpg "Logo Title Text 3"
 
 Technologies
 ============
@@ -40,11 +40,13 @@ To run this device the code uploaded here should be uploaded into the arduino fi
 
 Team
 =====
-Blossom ugodolo- mainly responsible with the write up
+Blossom Ugolo- mainly responsible with the write up
 Firaol Gina- mainly wiring and code edition.
 Ignacio Gonzalez - mainly coding. 
 
-we all contributed in all the tasks , so it's really hard to take credit for specific task, however according to task division and resposiblities we made sure our project is right on time. 
+We all contributed in all the tasks , so it's really hard to take credit for specific task, however according to task division and resposiblities we made sure our project is right on time. 
 
 CREDIT
 =======
+Roumega Dante, Original Creator
+
